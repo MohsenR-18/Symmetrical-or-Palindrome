@@ -3,13 +3,13 @@ Given a string. the task is to check if the string is symmetrical and palindrome
 
 
 # Example
-<br><b>Input</b>: khokho
+<b>Input</b>: khokho
 <br>Output</b>: 
 <br>The entered string is symmetrical
 <br>The entered string is not palindrome
 
 # Example
-<br><b>Input</b>:amaama
+<b>Input</b>:amaama
 <br><b>Output</b>:
 <br>The entered string is symmetrical
 <br>The entered string is palindrome
