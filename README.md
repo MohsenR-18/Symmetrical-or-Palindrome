@@ -9,7 +9,7 @@ Given a string. the task is to check if the string is symmetrical and palindrome
 <br>The entered string is not palindrome
 
 # Example
-<b>Input</b>:amaama
+<b>Input</b>: amaama
 <br><b>Output</b>:
 <br>The entered string is symmetrical
 <br>The entered string is palindrome
